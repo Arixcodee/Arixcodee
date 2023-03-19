@@ -1,9 +1,5 @@
 <h1 align="center">WELCOME
 <p align="center">
-  <img src="https://telegra.ph/file/9291390c79aaba42356b6.jpg" />
-</p>
-
-<p align="center">
 
 </p>
 
